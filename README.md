@@ -1,5 +1,7 @@
+[![MasterHead](https://i.pinimg.com/originals/45/e6/b8/45e6b85207aa4af2f8dbd3b76c0525e0.gif)](https://github.com/Ostreyn)
 <h1 align="center">👋 Good day Gentlemen</h1>
 <h3 align="center">No information given yet.</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/06/72/a7/0672a744d287ee7af00ff6518338946c.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ostreyn&label=Profile%20views&color=0e75b6&style=flat" alt="ostreyn" /> </p>
 

@@ -1,5 +1,5 @@
 [![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8d242202-387f-4055-8ff6-466033e4a627/d5ejbxz-698b000a-96bf-433e-adfd-be94e6636fe4.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhkMjQyMjAyLTM4N2YtNDA1NS04ZmY2LTQ2NjAzM2U0YTYyN1wvZDVlamJ4ei02OThiMDAwYS05NmJmLTQzM2UtYWRmZC1iZTk0ZTY2MzZmZTQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.JvATP9AXhK-zKaYgrIQxceH0aHX-1MUWAb-y6aWNqCo)](https://github.com/Ostreyn)
-<h1 align="center">👋 Good day Gentlemen</h1>
+<h1 align="center">👋 Good day Gentleman</h1>
 <h3 align="center">No information given yet.</h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/9f6da4c43b6587879e627ab0c6d1640c/tumblr_mzhex5ajOZ1rzz6blo1_640.gif">
 
